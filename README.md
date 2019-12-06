@@ -28,13 +28,24 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    * Middleware - can get the req and res objects, operater on them, and trigger action(s)
+    * Routing - a way to select which request handler is executed
+
 - [ ] Describe Middleware?
+
+    * Middleware - can get the req and res objects, operater on them, and trigger action(s)
 
 - [ ] Describe a Resource?
 
+    * 
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    * A status code
+
 - [ ] How can we partition our application into sub-applications?
+
+    * By implementing custom middleware
 
 ## Project Setup
 
